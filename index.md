@@ -2,4 +2,4 @@
 このサイトは14歳の少年はるーんが、新情報や新要素を伝えていくサイトです。（2018/10/28現在）
 
 
- [クラロワ新情報](/kurarowanoshinjyouhou)
+ １．[FAV gamingがワイルドカード枠を勝ち取る！](/kurarowanoshinjyouhou)
