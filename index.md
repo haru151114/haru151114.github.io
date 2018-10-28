@@ -18,4 +18,4 @@
  2on2はGameWithが、1on1はFAV gamingが勝ち、この日3試合目のSet3。
  ここでFAV gamingのだに選手が、shun選手、ユイヒイロ選手、kk選手といったGameWithの若き強豪たちを一人で倒し、見事に直接対決を制し、国内2位の座を勝ち取ることに成功しました。
  
- 
+ [](./kurarowanoshinjyouhou)
