@@ -3,3 +3,5 @@
 
 
  １．[FAV gamingがワイルドカード枠を勝ち取る！](/kurarowanoshinjyouhou)
+ 
+ ２．[バーチャルYouTuberさん動画投稿キャンペーンの当選者！](vyoutuber-campaign-tousensya)
