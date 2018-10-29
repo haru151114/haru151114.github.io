@@ -2,6 +2,8 @@
 このサイトは14歳の少年はるーんが、新情報や新要素を伝えていくサイトです。（2018/10/28現在）
 
 
- １．[FAV gamingがワイルドカード枠を勝ち取る！](/kurarowanoshinjyouhou)
+ 1.[FAV gamingがワイルドカード枠を勝ち取る！](/kurarowanoshinjyouhou)
  
- ２．[バーチャルYouTuberさん動画投稿キャンペーンの当選者！](/vyoutubercampaigntousensya)
+ 2.[バーチャルYouTuberさん動画投稿キャンペーンの当選者！](/vyoutubercampaigntousensya)
+
+ 3. [クラロワ初心者デッキ！](/kurarowashyoshinsya)
