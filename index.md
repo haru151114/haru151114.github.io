@@ -6,4 +6,4 @@
  
  2.[バーチャルYouTuberさん動画投稿キャンペーンの当選者！](/vyoutubercampaigntousensya)
 
- 3. [クラロワ初心者デッキ！](/kurarowashyoshinsya)
+ 3. [クラロワ初心者デッキ！](/kurarowasyoshinsya)
