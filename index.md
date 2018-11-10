@@ -8,4 +8,4 @@
 
 3.[クラロワ初心者デッキ！](/kurarowasyoshinsya)
 
-4.[最強デッキランキング](/)
+4.[最強デッキランキング](/saikyoudekkirankingu)
